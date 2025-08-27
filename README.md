@@ -2,7 +2,7 @@
 
 <!-- Profile README for github.com/YOUR_USERNAME -->
 
-<h1 align="center">Hi, I'm Your Name 👋</h1>
+<h1 align="center">Hi, I'm Bonane NIYIGENA 👋</h1>
 
 <p align="center">
   <b>Software Developer & Designer</b> — Python · JavaScript · PHP · SQL (MySQL & PostgreSQL)
